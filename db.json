@@ -1,14 +1,1927 @@
 [
   {
-    "id": 1,
-    "title": "Post 1"
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
   },
   {
-    "id": 2,
-    "title": "Post 2"
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
   },
   {
-    "id": 3,
-    "title": "Post 3"
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "address": null,
+    "eisEnterprise": "E104935",
+    "eisStoreId": "S100007867",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+        "dealerId": "TEST_IT_01",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },{
+  "name": "TEST",
+  "address": null,
+  "eisEnterprise": "E104935",
+  "eisStoreId": "S100007867",
+  "partnerDealers": [
+    {
+      "partnerName": "CDK Global - Vehicle Cloud",
+      "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+      "partnerDealerId": "74806e53-33a6-4422-b8e6-708ebac11851",
+      "dealerId": "TEST_IT_01",
+      "subscriptionProducts": [
+        {
+          "name": "CDK EDP TO VEHICLE IMPORT",
+          "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+          "datatypeName": "Vehicle Inventory",
+          "datatype": "vehicle_inventory",
+          "_links": {
+            "self": {
+              "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+            }
+          }
+        }
+      ]
+    }
+  ]
+},
+  {
+    "name": "Qx Integration",
+    "address": "400 SE 2nd Ave",
+    "eisEnterprise": "E000135",
+    "eisStoreId": "S100092203",
+    "partnerDealers": [
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "67d2abde-8bfe-4fe0-9f4c-bd9bdfb33ada",
+        "dealerId": "39028",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "04985ea8-67f5-4dc2-88fd-ea1d5a974eb7",
+        "dealerId": "62630",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "CDK Global - Vehicle Cloud",
+        "partnerId": "dcca576b-8939-42f6-9000-ac065ed670bf",
+        "partnerDealerId": "50672c93-8392-4525-9de2-c75e26ee0dde",
+        "dealerId": "63501",
+        "subscriptionProducts": [
+          {
+            "name": "CDK EDP TO VEHICLE IMPORT",
+            "subscriptionId": "7c638083-83df-45bf-b478-33280302e1e2",
+            "datatypeName": "Vehicle Inventory",
+            "datatype": "vehicle_inventory",
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/vehicle_inventory"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VW Test Store",
+    "address": null,
+    "eisEnterprise": null,
+    "eisStoreId": "S100105070",
+    "partnerDealers": [
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8f3f9764-1076-4cb4-a943-3cd4d6bd88a2",
+        "dealerId": "tim",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "ae3da735-5bc2-41d1-bc92-4aa583aa9559",
+        "dealerId": "nathan",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "d0699a3f-d0f8-4923-b976-2e0749241cdf",
+        "dealerId": "brian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "36878eaf-9f38-4223-8e7a-49d7acda0073",
+        "dealerId": "dipesh",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "7c420e26-2477-4831-a3f8-9562748e505c",
+        "dealerId": "rishab",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "partnerName": "Test External Data Viewers",
+        "partnerId": "766137a5-cf7f-4742-9ff2-a996c1bbf77c",
+        "partnerDealerId": "8a55aecc-9799-4a4a-ba14-f27f1983b612",
+        "dealerId": "adrian",
+        "subscriptionProducts": [
+          {
+            "name": null,
+            "subscriptionId": null,
+            "datatypeName": null,
+            "datatype": null,
+            "_links": {
+              "self": {
+                "href": "https://api-dit.connectcdk.com/api/ds-mds-dataviewer-api/v1/records/"
+              }
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
